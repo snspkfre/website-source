@@ -1,0 +1,52 @@
+[[main]]
+name = "Projects"
+pageRef = "projects"
+weight = 1
+
+[[main]]
+name = "GPU Flocking"
+parent = "Projects"
+pageRef = "gpu-flocking"
+weight = 1
+
+[[main]]
+name = "Cthulhu and Me"
+parent = "Projects"
+pageRef = "cthulhu-and-me"
+weight = 2
+
+[[main]]
+name = "Spline Tool"
+parent = "Projects"
+pageRef = "spline-tool"
+weight = 3
+
+[[main]]
+name = "Industry Experience"
+pageRef = "industry-experience"
+weight = 2
+
+[[main]]
+name = "Mental"
+parent = "Industry Experience"
+pageRef = "mental"
+weight = 1
+
+[[main]]
+name = "Maysalward"
+parent = "Industry Experience"
+pageRef = "maysalward"
+weight = 2
+
+[[main]]
+name = "Resume"
+pageRef = "resume"
+weight = 3
+
+[[main]]
+name = "Contact"
+pageRef = "contact"
+weight = 4
+
+[[footer]]
+none = "none"
