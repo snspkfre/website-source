@@ -44,12 +44,12 @@ layoutBackgroundBlur = false
 disableHeroImageFilter = false
 
 [article]
-showDate = true
+showDate = false
 showViews = false
 showLikes = false
 showDateOnlyInArticle = false
 showDateUpdated = false
-showAuthor = true
+showAuthor = false
 showHero = false
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
@@ -59,7 +59,7 @@ showEdit = false
 editAppendPath = true
 seriesOpened = false
 showHeadingAnchors = true
-showPagination = true
+showPagination = false
 invertPagination = false
 showReadingTime = true
 showTableOfContents = false

@@ -7,7 +7,67 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Victor Diab</copyright>
-    <atom:link href="http://localhost:1313/snspkfre/testsite.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Feb 2026 11:11:42 -0500</lastBuildDate><atom:link href="http://localhost:1313/snspkfre/testsite.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>C#</title>
+      <link>http://localhost:1313/snspkfre/testsite.github.io/tags/c%23/</link>
+      <pubDate>Wed, 18 Feb 2026 11:11:42 -0500</pubDate>
+      
+      <guid>http://localhost:1313/snspkfre/testsite.github.io/tags/c%23/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Procedural Generation</title>
+      <link>http://localhost:1313/snspkfre/testsite.github.io/tags/procedural-generation/</link>
+      <pubDate>Wed, 18 Feb 2026 11:11:42 -0500</pubDate>
+      
+      <guid>http://localhost:1313/snspkfre/testsite.github.io/tags/procedural-generation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Unity</title>
+      <link>http://localhost:1313/snspkfre/testsite.github.io/tags/unity/</link>
+      <pubDate>Wed, 18 Feb 2026 11:11:42 -0500</pubDate>
+      
+      <guid>http://localhost:1313/snspkfre/testsite.github.io/tags/unity/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HLSL</title>
+      <link>http://localhost:1313/snspkfre/testsite.github.io/tags/hlsl/</link>
+      <pubDate>Wed, 18 Feb 2026 10:00:08 -0500</pubDate>
+      
+      <guid>http://localhost:1313/snspkfre/testsite.github.io/tags/hlsl/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Shadergraph</title>
+      <link>http://localhost:1313/snspkfre/testsite.github.io/tags/shadergraph/</link>
+      <pubDate>Wed, 18 Feb 2026 10:00:08 -0500</pubDate>
+      
+      <guid>http://localhost:1313/snspkfre/testsite.github.io/tags/shadergraph/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Studio</title>
+      <link>http://localhost:1313/snspkfre/testsite.github.io/tags/studio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/snspkfre/testsite.github.io/tags/studio/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>
