@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Industry Experience on Blowfish</title>
-    <link>http://localhost:55601/snspkfre/testsite.github.io/industry-experience/</link>
+    <link>http://localhost:1313/snspkfre/testsite.github.io/industry-experience/</link>
     <description>Recent content in Industry Experience on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Victor Diab</copyright>
-    <lastBuildDate>Wed, 18 Feb 2026 10:03:07 -0500</lastBuildDate><atom:link href="http://localhost:55601/snspkfre/testsite.github.io/industry-experience/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Feb 2026 10:03:07 -0500</lastBuildDate><atom:link href="http://localhost:1313/snspkfre/testsite.github.io/industry-experience/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Maysalward</title>
-      <link>http://localhost:55601/snspkfre/testsite.github.io/industry-experience/maysalward/</link>
+      <link>http://localhost:1313/snspkfre/testsite.github.io/industry-experience/maysalward/</link>
       <pubDate>Wed, 18 Feb 2026 10:03:07 -0500</pubDate>
       
-      <guid>http://localhost:55601/snspkfre/testsite.github.io/industry-experience/maysalward/</guid>
+      <guid>http://localhost:1313/snspkfre/testsite.github.io/industry-experience/maysalward/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55601/snspkfre/testsite.github.io/industry-experience/maysalward/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snspkfre/testsite.github.io/industry-experience/maysalward/featured.png" />
     </item>
     
     <item>
       <title>Mental</title>
-      <link>http://localhost:55601/snspkfre/testsite.github.io/industry-experience/mental/</link>
+      <link>http://localhost:1313/snspkfre/testsite.github.io/industry-experience/mental/</link>
       <pubDate>Wed, 18 Feb 2026 10:02:54 -0500</pubDate>
       
-      <guid>http://localhost:55601/snspkfre/testsite.github.io/industry-experience/mental/</guid>
+      <guid>http://localhost:1313/snspkfre/testsite.github.io/industry-experience/mental/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55601/snspkfre/testsite.github.io/industry-experience/mental/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snspkfre/testsite.github.io/industry-experience/mental/featured.png" />
     </item>
     
   </channel>

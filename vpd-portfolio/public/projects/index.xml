@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Blowfish</title>
-    <link>http://localhost:55601/snspkfre/testsite.github.io/projects/</link>
+    <link>http://localhost:1313/snspkfre/testsite.github.io/projects/</link>
     <description>Recent content in Projects on Blowfish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Victor Diab</copyright>
-    <lastBuildDate>Wed, 18 Feb 2026 11:11:42 -0500</lastBuildDate><atom:link href="http://localhost:55601/snspkfre/testsite.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Feb 2026 11:11:42 -0500</lastBuildDate><atom:link href="http://localhost:1313/snspkfre/testsite.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Spline Tool</title>
-      <link>http://localhost:55601/snspkfre/testsite.github.io/projects/spline-tool/</link>
+      <link>http://localhost:1313/snspkfre/testsite.github.io/projects/spline-tool/</link>
       <pubDate>Wed, 18 Feb 2026 11:11:42 -0500</pubDate>
       
-      <guid>http://localhost:55601/snspkfre/testsite.github.io/projects/spline-tool/</guid>
+      <guid>http://localhost:1313/snspkfre/testsite.github.io/projects/spline-tool/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55601/snspkfre/testsite.github.io/projects/spline-tool/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snspkfre/testsite.github.io/projects/spline-tool/featured.png" />
     </item>
     
     <item>
       <title>GPU Flocking</title>
-      <link>http://localhost:55601/snspkfre/testsite.github.io/projects/gpu-flocking/</link>
+      <link>http://localhost:1313/snspkfre/testsite.github.io/projects/gpu-flocking/</link>
       <pubDate>Wed, 18 Feb 2026 10:00:08 -0500</pubDate>
       
-      <guid>http://localhost:55601/snspkfre/testsite.github.io/projects/gpu-flocking/</guid>
+      <guid>http://localhost:1313/snspkfre/testsite.github.io/projects/gpu-flocking/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55601/snspkfre/testsite.github.io/projects/gpu-flocking/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snspkfre/testsite.github.io/projects/gpu-flocking/featured.png" />
     </item>
     
     <item>
       <title>Cthulhu and Me</title>
-      <link>http://localhost:55601/snspkfre/testsite.github.io/projects/cthulhu-and-me/</link>
+      <link>http://localhost:1313/snspkfre/testsite.github.io/projects/cthulhu-and-me/</link>
       <pubDate>Wed, 18 Feb 2026 09:44:33 -0500</pubDate>
       
-      <guid>http://localhost:55601/snspkfre/testsite.github.io/projects/cthulhu-and-me/</guid>
+      <guid>http://localhost:1313/snspkfre/testsite.github.io/projects/cthulhu-and-me/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:55601/snspkfre/testsite.github.io/projects/cthulhu-and-me/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/snspkfre/testsite.github.io/projects/cthulhu-and-me/featured.png" />
     </item>
     
   </channel>

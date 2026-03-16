@@ -1,0 +1,10 @@
+{{ $featuredArticles := 5 }}
+{{ $featuredArticles = .Site.Params.homepage.showFeaturedItems }}
+
+
+<section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
+  {{ range first $featuredArticles (where .Site.RegularPages "Params.featured" true)
+  }}
+    {{ partial "article-link/card.html" . }}
+  {{ end }}
+</section>
