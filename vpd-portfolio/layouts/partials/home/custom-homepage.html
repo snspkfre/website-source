@@ -1,18 +1,18 @@
 <article class="max-w-full prose dark:prose-invert">
-  {{ with "Hallo! I am grapics programor on somtimes" }}
+  {{ with "What up! I'm Victor" }}
     <header>
       <h1>{{ . | emojify }}</h1>
     </header>
   {{ end }}
-  <section class="w-full">{{ .Content }}</section>
-</article>
-<section>
 
   {{ with "Featured Projects: " }}
     <header>
-      <h1>{{ . | emojify }}</h1>
+      <h3>{{ . | emojify }}</h3>
     </header>
   {{ end }}
-    
+
+  <section class="w-full">{{ .Content }}</section>
+</article>
+<section>
   {{ partial "featured-articles/main.html" . }}
 </section>

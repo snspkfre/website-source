@@ -16,7 +16,7 @@ tags: ['Unity', 'C#', 'HLSL', 'Shadergraph']
 <!-- <img src="featured.png" alt="My Image" style="float: left; width:700px; margin-right:20px; margin-bottom: -20px;"> -->
 <!-- <img src="gameplay2.png" alt="My Image" style="float: left; width:700px; margin-right:20px; margin-bottom: 50px"> -->
 
-# About This Game
+# About
 
 Cthulhu & Me is a 3D third-person roguelike boomer-shooter where, on a bright sunny day, Cthulhu rises from the ocean to terrorize the world once again, but notices and takes interest in a little girl who is seemingly not afraid of this eldritch being. 
 

@@ -16,37 +16,20 @@ pageRef = "cthulhu-and-me"
 weight = 2
 
 [[main]]
-name = "Spline Tool"
+name = "Spline Tools"
 parent = "Projects"
-pageRef = "spline-tool"
+pageRef = "spline-tools"
 weight = 3
-
-[[main]]
-name = "Industry Experience"
-pageRef = "industry-experience"
-weight = 2
-
-[[main]]
-name = "Mental"
-parent = "Industry Experience"
-pageRef = "mental"
-weight = 1
-
-[[main]]
-name = "Maysalward"
-parent = "Industry Experience"
-pageRef = "maysalward"
-weight = 2
 
 [[main]]
 name = "Resume"
 pageRef = "resume"
-weight = 3
+weight = 2
 
 [[main]]
 name = "Contact"
 pageRef = "contact"
-weight = 4
+weight = 3
 
 [[footer]]
 none = "none"
