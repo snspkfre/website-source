@@ -1,0 +1,6 @@
+    {{- $social := resources.Get (print "icons/" . ".svg") -}}
+        {{- if $social -}}
+            <span class="social-nav">
+                {{- $social.Content | safeHTML -}}
+            </span>
+    {{- end -}}

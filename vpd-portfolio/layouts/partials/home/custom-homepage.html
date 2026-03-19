@@ -1,9 +1,47 @@
 <article class="max-w-full prose dark:prose-invert">
-  {{ with "What up! I'm Victor" }}
+  {{ with "Victor Diab | Graphics Programmer" }}
     <header>
       <h1>{{ . | emojify }}</h1>
     </header>
   {{ end }}
+
+  {{ with "I'm a game programming & applied mathematics student with a specialization in graphics programming. I like anything rendering from graphics API's to high level shaders to raytracing architecure." }}
+    <header>
+      <h3>{{ . | emojify }}</h3>
+    </header>
+  {{ end }}
+
+
+  {{ with "Wanna talk graphics, math, etc?" }}
+    <header>
+      <h3>{{ . | emojify }}</h3>
+    </header>
+  {{ end }}
+
+  <script>
+    function copyLink(e) {
+        e.preventDefault(); // stop navigation
+        navigator.clipboard.writeText("victorpdiab@gmail.com");
+    }
+  </script>
+
+  <a href="#" onclick="copyLink(event)">
+    {{ partial "social.html" "envelope" }}
+  </a>
+
+  <a href="www.linkedin.com/in/victordiab" target="_blank">
+    {{ partial "social.html" "linkedin" }}
+  </a>
+
+  {{/*  <a href="https://snspkfre.itch.io/" target="_blank">
+    {{ partial "social.html" "itch-io" }}
+  </a>  */}}
+
+  <a href="https://github.com/snspkfre" target="_blank">
+    {{ partial "social.html" "github" }}
+  </a>
+  
+  <br>
 
   {{ with "Featured Projects: " }}
     <header>

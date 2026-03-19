@@ -3,3 +3,26 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+
+.social-nav{
+    max-width: 500px;
+    color: #8a5db4;
+    width: 60px;
+    display: inline-block;
+    vertical-align: middle;
+    align-items: center;
+    margin-right: 1rem;
+    gap: 3.5rem;
+    transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.social-nav svg {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.social-nav:hover{
+    transform: scale(1.3);
+    color: #c586ff;
+}
