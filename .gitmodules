@@ -1,0 +1,3 @@
+[submodule "vpd-portfolio/themes/blowfish"]
+	path = vpd-portfolio/themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
