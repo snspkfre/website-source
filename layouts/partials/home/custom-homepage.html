@@ -46,8 +46,7 @@
       <a href="https://docs.google.com/document/d/11ClqRp7BhIRpMTv6v-eDWSP0D-BynTs8KOnyjdZDjYQ/edit?usp=sharing" target="_blank">
         {{ partial "social.html" "link" }}
       </a>
-  
-      <a href="/static/doc/VictorDiabResume.pdf" download>
+      <a href={{ "doc/VictorDiabResume.pdf" | absURL }} download="Victor Diab Resume.pdf">
         {{ partial "social.html" "download" }}
       </a>
   </section>
