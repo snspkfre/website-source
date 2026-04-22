@@ -9,7 +9,9 @@ tags: ['Unity', 'C#', 'LaTex']
 
 <div style="float: right; min-width: 250px; width: 650px; max-width: 700px; margin-left: 20px; margin-top: 10px; margin-bottom: 10px; gap: 20px">
 
-  {{< carousel images="tool-images/*" aspectRatio="16-9" interval="2000">}}
+  <!-- {{< carousel images="tool-images/*" aspectRatio="16-9" interval="2000">}} -->
+  <img src="SplineDemo.gif">
+  
 
 </div>
 
@@ -17,10 +19,14 @@ tags: ['Unity', 'C#', 'LaTex']
 
 This project was an interactive spline tool built in the Unity game engine demonstrating different mathematical curves along a spline. Then we presented at the Hudson River Undergraduate Math Conference about different applications of splines in different fields and how they worked using the Spline Tool and Desmos to aide our explanation. 
 
+<div style="float: center; min-width: 250px; width: 700; max-width: 800px; margin-left: 10px; margin-top: 10px; margin-bottom: 10px; gap: 0px">
+<img src="SplineShapesDemo.gif">
+</div>
 
+<br>
 <div style="float: right; min-width: 250px; width: 650px; max-width: 700px; margin-left: 20px; margin-top: 10px; gap: 20px">
 
-  {{< carousel images="presentation-images/*" aspectRatio="16-9" interval="2000">}}
+  {{< carousel images="presentation-images/*" aspectRatio="4-3" interval="2000">}}
 
 </div>
 
@@ -33,6 +39,8 @@ Presenting this at HRUMC with my copresenter Lizzie was very fun, and it was sic
 It was also a cool technical challenge to implement objects that can animate along the spline with constant velocity since it required generating then using look up tables to evaluates the acceleration at different points then interpolating those values where we were along the spline.  
 
 
+<br>
+<br>
 <br>
 
 # Responsibilities
