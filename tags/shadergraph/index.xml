@@ -34,7 +34,7 @@
 
 &lt;div class="width-patch"&gt;&lt;/div&gt;
 &lt;div
- id="carousel-9a23cbb55f5c158173255cb6261720cd-1776846816277214629"
+ id="carousel-9a23cbb55f5c158173255cb6261720cd-1776849722274342006"
  class="relative"
  data-twe-carousel-init
  data-twe-ride="carousel"
@@ -46,7 +46,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776846816277214629"
+ data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776849722274342006"
  data-twe-slide-to="0"
  data-twe-carousel-active aria-current="true"
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -55,7 +55,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776846816277214629"
+ data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776849722274342006"
  data-twe-slide-to="1"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -64,7 +64,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776846816277214629"
+ data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776849722274342006"
  data-twe-slide-to="2"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -73,7 +73,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776846816277214629"
+ data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776849722274342006"
  data-twe-slide-to="3"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -82,7 +82,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776846816277214629"
+ data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776849722274342006"
  data-twe-slide-to="4"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -350,7 +350,7 @@
  &lt;button
  class="absolute top-0 bottom-0 left-0 z-2 flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:no-underline hover:opacity-90 hover:outline-none focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none"
  type="button"
- data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776846816277214629"
+ data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776849722274342006"
  data-twe-slide="prev"&gt;
  &lt;span class="inline-block h-8 w-8"&gt;
  &lt;svg
@@ -372,7 +372,7 @@
  &lt;button
  class="absolute top-0 bottom-0 right-0 z-[1] flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:no-underline hover:opacity-90 hover:outline-none focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none"
  type="button"
- data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776846816277214629"
+ data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776849722274342006"
  data-twe-slide="next"&gt;
  &lt;span class="inline-block h-8 w-8"&gt;
  &lt;svg
@@ -405,7 +405,7 @@
  &lt;/span&gt;
  
 &lt;/h1&gt;
-&lt;p&gt;Cthulhu &amp;amp; Me is a 3D third-person roguelike boomer-shooter where, on a bright sunny day, Cthulhu rises from the ocean to terrorize the world once again, but notices and takes interest in a little girl who is seemingly not afraid of this eldritch being.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://snspkfre.github.io/website-source/projects/cthulhu-and-me/featured.png"/></item><item><title>GPU Flocking</title><link>https://snspkfre.github.io/website-source/projects/gpu-flocking/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://snspkfre.github.io/website-source/projects/gpu-flocking/</guid><description>&lt;br&gt;
+&lt;p&gt;Cthulhu &amp;amp; Me is a 3D third-person roguelike boomer-shooter. On a bright sunny day, Cthulhu rises from the ocean to terrorize the world once again, but notices a little girl who is seemingly not afraid of him.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://snspkfre.github.io/website-source/projects/cthulhu-and-me/featured.png"/></item><item><title>GPU Flocking</title><link>https://snspkfre.github.io/website-source/projects/gpu-flocking/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://snspkfre.github.io/website-source/projects/gpu-flocking/</guid><description>&lt;br&gt;
 &lt;div style="float: right; min-width: 250px; width: 700px; max-width: 650px; margin-left: 20px; margin-top: 10px; gap: 20px"&gt;
 &lt;img src="flockingimg.png"&gt;
 &lt;/div&gt;
@@ -420,5 +420,5 @@
  &lt;/span&gt;
  
 &lt;/h1&gt;
-&lt;p&gt;This project was my final project for a course intermediate graphics and animation programming. Our goal was to create an environment with fish that were flocking and make it look like a painting via a kuwahara filter.&lt;/p&gt;
-&lt;p&gt;In order to have the fish flock in an efficient manner we went about implementing the flocking by utilizing GPU dispatches through a compute shader.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://snspkfre.github.io/website-source/projects/gpu-flocking/featured.png"/></item></channel></rss>
+&lt;p&gt;This was my final project for a graphics programming course. Our goal was to create an environment with fish that were flocking and make it look like a painting via a kuwahara filter.&lt;/p&gt;
+&lt;p&gt;In order to have the fish flock in an efficient manner, I implemented the flocking algorithm utilizing GPU dispatches through a compute shader.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://snspkfre.github.io/website-source/projects/gpu-flocking/featured.png"/></item></channel></rss>
