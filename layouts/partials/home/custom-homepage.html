@@ -12,7 +12,7 @@
   {{ end }}
 
 
-  {{ with "Wanna talk graphics, math, etc?" }}
+  {{ with "Wanna talk graphics, math, or game development?" }}
     <header>
       <h3>{{ . | emojify }}</h3>
     </header>
@@ -24,8 +24,8 @@
         navigator.clipboard.writeText("victorpdiab@gmail.com");
     }
   </script>
-
-  <a href="#" onclick="copyLink(event)">
+  <a href="mailto:victorpdiab@gmail.com">
+  <!-- <a href="#" onclick="copyLink(event)"> -->
     {{ partial "social.html" "envelope" }}
   </a>
 
