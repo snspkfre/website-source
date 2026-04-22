@@ -34,7 +34,7 @@
 
 &lt;div class="width-patch"&gt;&lt;/div&gt;
 &lt;div
- id="carousel-9a23cbb55f5c158173255cb6261720cd-1776835469474598553"
+ id="carousel-9a23cbb55f5c158173255cb6261720cd-1776839947666403869"
  class="relative"
  data-twe-carousel-init
  data-twe-ride="carousel"
@@ -46,7 +46,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776835469474598553"
+ data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776839947666403869"
  data-twe-slide-to="0"
  data-twe-carousel-active aria-current="true"
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -55,7 +55,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776835469474598553"
+ data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776839947666403869"
  data-twe-slide-to="1"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -64,7 +64,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776835469474598553"
+ data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776839947666403869"
  data-twe-slide-to="2"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -73,7 +73,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776835469474598553"
+ data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776839947666403869"
  data-twe-slide-to="3"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -82,7 +82,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776835469474598553"
+ data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776839947666403869"
  data-twe-slide-to="4"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -350,7 +350,7 @@
  &lt;button
  class="absolute top-0 bottom-0 left-0 z-2 flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:no-underline hover:opacity-90 hover:outline-none focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none"
  type="button"
- data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776835469474598553"
+ data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776839947666403869"
  data-twe-slide="prev"&gt;
  &lt;span class="inline-block h-8 w-8"&gt;
  &lt;svg
@@ -372,7 +372,7 @@
  &lt;button
  class="absolute top-0 bottom-0 right-0 z-[1] flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:no-underline hover:opacity-90 hover:outline-none focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none"
  type="button"
- data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776835469474598553"
+ data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776839947666403869"
  data-twe-slide="next"&gt;
  &lt;span class="inline-block h-8 w-8"&gt;
  &lt;svg
@@ -441,7 +441,7 @@
 
 &lt;div class="width-patch"&gt;&lt;/div&gt;
 &lt;div
- id="carousel-0df4362fcae76e191c91ab6627d950d7-1776835469477868771"
+ id="carousel-0df4362fcae76e191c91ab6627d950d7-1776839947666352537"
  class="relative"
  data-twe-carousel-init
  data-twe-ride="carousel"
@@ -453,7 +453,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-0df4362fcae76e191c91ab6627d950d7-1776835469477868771"
+ data-twe-target="#carousel-0df4362fcae76e191c91ab6627d950d7-1776839947666352537"
  data-twe-slide-to="0"
  data-twe-carousel-active aria-current="true"
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -462,7 +462,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-0df4362fcae76e191c91ab6627d950d7-1776835469477868771"
+ data-twe-target="#carousel-0df4362fcae76e191c91ab6627d950d7-1776839947666352537"
  data-twe-slide-to="1"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -471,7 +471,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-0df4362fcae76e191c91ab6627d950d7-1776835469477868771"
+ data-twe-target="#carousel-0df4362fcae76e191c91ab6627d950d7-1776839947666352537"
  data-twe-slide-to="2"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -480,7 +480,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-0df4362fcae76e191c91ab6627d950d7-1776835469477868771"
+ data-twe-target="#carousel-0df4362fcae76e191c91ab6627d950d7-1776839947666352537"
  data-twe-slide-to="3"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -489,7 +489,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-0df4362fcae76e191c91ab6627d950d7-1776835469477868771"
+ data-twe-target="#carousel-0df4362fcae76e191c91ab6627d950d7-1776839947666352537"
  data-twe-slide-to="4"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -757,7 +757,7 @@
  &lt;button
  class="absolute top-0 bottom-0 left-0 z-2 flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:no-underline hover:opacity-90 hover:outline-none focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none"
  type="button"
- data-twe-target="#carousel-0df4362fcae76e191c91ab6627d950d7-1776835469477868771"
+ data-twe-target="#carousel-0df4362fcae76e191c91ab6627d950d7-1776839947666352537"
  data-twe-slide="prev"&gt;
  &lt;span class="inline-block h-8 w-8"&gt;
  &lt;svg
@@ -779,7 +779,7 @@
  &lt;button
  class="absolute top-0 bottom-0 right-0 z-[1] flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:no-underline hover:opacity-90 hover:outline-none focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none"
  type="button"
- data-twe-target="#carousel-0df4362fcae76e191c91ab6627d950d7-1776835469477868771"
+ data-twe-target="#carousel-0df4362fcae76e191c91ab6627d950d7-1776839947666352537"
  data-twe-slide="next"&gt;
  &lt;span class="inline-block h-8 w-8"&gt;
  &lt;svg
@@ -813,41 +813,31 @@
 &lt;/h1&gt;
 &lt;p&gt;This project was my final project for a course intermediate graphics and animation programming. Our goal was to create an environment with fish that were flocking and make it look like a painting via a kuwahara filter.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://snspkfre.github.io/website-source/projects/gpu-flocking/featured.png"/></item><item><title>Spline Tools</title><link>https://snspkfre.github.io/website-source/projects/spline-tools/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://snspkfre.github.io/website-source/projects/spline-tools/</guid><description>&lt;br&gt;
 &lt;div style="float: right; min-width: 250px; width: 650px; max-width: 700px; margin-left: 20px; margin-top: 10px; margin-bottom: 10px; gap: 20px"&gt;
+ &lt;!-- 
+
+
+
+
+
+
+
+
+
+
+
 
  
  
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;div class="width-patch"&gt;&lt;/div&gt;
- &lt;div
- id="carousel-6b02c2a3ebd1575882c3a0beca761043-1776835469488686179"
+
+
+
+
+
+
+&lt;div class="width-patch"&gt;&lt;/div&gt;
+&lt;div
+ id="carousel-6b02c2a3ebd1575882c3a0beca761043-1776839947670174264"
  class="relative"
  data-twe-carousel-init
  data-twe-ride="carousel"
@@ -857,313 +847,18 @@
  data-twe-carousel-indicators&gt;
  
  
- &lt;button
- type="button"
- data-twe-target="#carousel-6b02c2a3ebd1575882c3a0beca761043-1776835469488686179"
- data-twe-slide-to="0"
- data-twe-carousel-active aria-current="true"
- class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
- aria-label="Slide 0"&gt;&lt;/button&gt;
- 
- 
- &lt;button
- type="button"
- data-twe-target="#carousel-6b02c2a3ebd1575882c3a0beca761043-1776835469488686179"
- data-twe-slide-to="1"
- 
- class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
- aria-label="Slide 1"&gt;&lt;/button&gt;
- 
- 
- &lt;button
- type="button"
- data-twe-target="#carousel-6b02c2a3ebd1575882c3a0beca761043-1776835469488686179"
- data-twe-slide-to="2"
- 
- class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
- aria-label="Slide 2"&gt;&lt;/button&gt;
- 
- 
- &lt;button
- type="button"
- data-twe-target="#carousel-6b02c2a3ebd1575882c3a0beca761043-1776835469488686179"
- data-twe-slide-to="3"
- 
- class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
- aria-label="Slide 3"&gt;&lt;/button&gt;
- 
- 
- &lt;button
- type="button"
- data-twe-target="#carousel-6b02c2a3ebd1575882c3a0beca761043-1776835469488686179"
- data-twe-slide-to="4"
- 
- class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
- aria-label="Slide 4"&gt;&lt;/button&gt;
- 
- 
  &lt;/div&gt;
- 
+
  &lt;div
  class="relative w-full after:clear-both after:block after:content-['']"
  style="overflow-x: clip; overflow-y: visible;"&gt;
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;div
- class="relative float-left -mr-[100%] w-full transition-transform ease-in-out motion-reduce:transition-none"
- data-twe-carousel-item
- style="transition-duration: 2000ms;"
- data-twe-carousel-active&gt;
- &lt;div class="single_hero_background relative overflow-hidden" style="aspect-ratio: 16 / 9;"&gt;
- &lt;img
- src="https://snspkfre.github.io/website-source/projects/spline-tools/tool-images/cthulhu-1.png"
- class="block absolute top-0 object-cover w-full h-full not-prose nozoom"
- alt="carousel image 1"&gt;
  &lt;/div&gt;
- 
- &lt;/div&gt;
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;div
- class="relative float-left -mr-[100%] hidden w-full transition-transform ease-in-out motion-reduce:transition-none"
- data-twe-carousel-item
- style="transition-duration: 2000ms;"
- &gt;
- &lt;div class="single_hero_background relative overflow-hidden" style="aspect-ratio: 16 / 9;"&gt;
- &lt;img
- src="https://snspkfre.github.io/website-source/projects/spline-tools/tool-images/cthulhu-2.png"
- class="block absolute top-0 object-cover w-full h-full not-prose nozoom"
- alt="carousel image 2"&gt;
- &lt;/div&gt;
- 
- &lt;/div&gt;
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;div
- class="relative float-left -mr-[100%] hidden w-full transition-transform ease-in-out motion-reduce:transition-none"
- data-twe-carousel-item
- style="transition-duration: 2000ms;"
- &gt;
- &lt;div class="single_hero_background relative overflow-hidden" style="aspect-ratio: 16 / 9;"&gt;
- &lt;img
- src="https://snspkfre.github.io/website-source/projects/spline-tools/tool-images/cthulhu-3.png"
- class="block absolute top-0 object-cover w-full h-full not-prose nozoom"
- alt="carousel image 3"&gt;
- &lt;/div&gt;
- 
- &lt;/div&gt;
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;div
- class="relative float-left -mr-[100%] hidden w-full transition-transform ease-in-out motion-reduce:transition-none"
- data-twe-carousel-item
- style="transition-duration: 2000ms;"
- &gt;
- &lt;div class="single_hero_background relative overflow-hidden" style="aspect-ratio: 16 / 9;"&gt;
- &lt;img
- src="https://snspkfre.github.io/website-source/projects/spline-tools/tool-images/cthulhu-4.png"
- class="block absolute top-0 object-cover w-full h-full not-prose nozoom"
- alt="carousel image 4"&gt;
- &lt;/div&gt;
- 
- &lt;/div&gt;
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;div
- class="relative float-left -mr-[100%] hidden w-full transition-transform ease-in-out motion-reduce:transition-none"
- data-twe-carousel-item
- style="transition-duration: 2000ms;"
- &gt;
- &lt;div class="single_hero_background relative overflow-hidden" style="aspect-ratio: 16 / 9;"&gt;
- &lt;img
- src="https://snspkfre.github.io/website-source/projects/spline-tools/tool-images/cthulhu-5.png"
- class="block absolute top-0 object-cover w-full h-full not-prose nozoom"
- alt="carousel image 5"&gt;
- &lt;/div&gt;
- 
- &lt;/div&gt;
- 
- &lt;/div&gt;
- 
+
  &lt;button
  class="absolute top-0 bottom-0 left-0 z-2 flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:no-underline hover:opacity-90 hover:outline-none focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none"
  type="button"
- data-twe-target="#carousel-6b02c2a3ebd1575882c3a0beca761043-1776835469488686179"
+ data-twe-target="#carousel-6b02c2a3ebd1575882c3a0beca761043-1776839947670174264"
  data-twe-slide="prev"&gt;
  &lt;span class="inline-block h-8 w-8"&gt;
  &lt;svg
@@ -1181,11 +876,11 @@
  &gt;Previous&lt;/span
  &gt;
  &lt;/button&gt;
- 
+
  &lt;button
  class="absolute top-0 bottom-0 right-0 z-[1] flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:no-underline hover:opacity-90 hover:outline-none focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none"
  type="button"
- data-twe-target="#carousel-6b02c2a3ebd1575882c3a0beca761043-1776835469488686179"
+ data-twe-target="#carousel-6b02c2a3ebd1575882c3a0beca761043-1776839947670174264"
  data-twe-slide="next"&gt;
  &lt;span class="inline-block h-8 w-8"&gt;
  &lt;svg
@@ -1203,8 +898,9 @@
  &gt;Next&lt;/span
  &gt;
  &lt;/button&gt;
- &lt;/div&gt;
-
+&lt;/div&gt;
+ --&gt;
+ &lt;img src="SplineDemo.gif"&gt;
 &lt;/div&gt;
 
 &lt;h1 class="relative group"&gt;About
