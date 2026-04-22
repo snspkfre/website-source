@@ -34,7 +34,7 @@
 
 &lt;div class="width-patch"&gt;&lt;/div&gt;
 &lt;div
- id="carousel-9a23cbb55f5c158173255cb6261720cd-1776843905808736287"
+ id="carousel-9a23cbb55f5c158173255cb6261720cd-1776844551171790659"
  class="relative"
  data-twe-carousel-init
  data-twe-ride="carousel"
@@ -46,7 +46,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776843905808736287"
+ data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776844551171790659"
  data-twe-slide-to="0"
  data-twe-carousel-active aria-current="true"
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -55,7 +55,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776843905808736287"
+ data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776844551171790659"
  data-twe-slide-to="1"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -64,7 +64,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776843905808736287"
+ data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776844551171790659"
  data-twe-slide-to="2"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -73,7 +73,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776843905808736287"
+ data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776844551171790659"
  data-twe-slide-to="3"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -82,7 +82,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776843905808736287"
+ data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776844551171790659"
  data-twe-slide-to="4"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -350,7 +350,7 @@
  &lt;button
  class="absolute top-0 bottom-0 left-0 z-2 flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:no-underline hover:opacity-90 hover:outline-none focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none"
  type="button"
- data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776843905808736287"
+ data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776844551171790659"
  data-twe-slide="prev"&gt;
  &lt;span class="inline-block h-8 w-8"&gt;
  &lt;svg
@@ -372,7 +372,7 @@
  &lt;button
  class="absolute top-0 bottom-0 right-0 z-[1] flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:no-underline hover:opacity-90 hover:outline-none focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none"
  type="button"
- data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776843905808736287"
+ data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776844551171790659"
  data-twe-slide="next"&gt;
  &lt;span class="inline-block h-8 w-8"&gt;
  &lt;svg
@@ -407,398 +407,7 @@
 &lt;/h1&gt;
 &lt;p&gt;Cthulhu &amp;amp; Me is a 3D third-person roguelike boomer-shooter where, on a bright sunny day, Cthulhu rises from the ocean to terrorize the world once again, but notices and takes interest in a little girl who is seemingly not afraid of this eldritch being.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://snspkfre.github.io/website-source/projects/cthulhu-and-me/featured.png"/></item><item><title>GPU Flocking</title><link>https://snspkfre.github.io/website-source/projects/gpu-flocking/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://snspkfre.github.io/website-source/projects/gpu-flocking/</guid><description>&lt;br&gt;
 &lt;div style="float: right; min-width: 250px; width: 700px; max-width: 650px; margin-left: 20px; margin-top: 10px; gap: 20px"&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-
-
-
-
-
-&lt;div class="width-patch"&gt;&lt;/div&gt;
-&lt;div
- id="carousel-0df4362fcae76e191c91ab6627d950d7-1776843905812295255"
- class="relative"
- data-twe-carousel-init
- data-twe-ride="carousel"
- data-twe-interval="2000"&gt;
- &lt;div
- class="absolute right-0 bottom-0 left-0 z-2 mx-[15%] mb-10 flex list-none justify-center p-0"
- data-twe-carousel-indicators&gt;
- 
- 
- &lt;button
- type="button"
- data-twe-target="#carousel-0df4362fcae76e191c91ab6627d950d7-1776843905812295255"
- data-twe-slide-to="0"
- data-twe-carousel-active aria-current="true"
- class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
- aria-label="Slide 0"&gt;&lt;/button&gt;
- 
- 
- &lt;button
- type="button"
- data-twe-target="#carousel-0df4362fcae76e191c91ab6627d950d7-1776843905812295255"
- data-twe-slide-to="1"
- 
- class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
- aria-label="Slide 1"&gt;&lt;/button&gt;
- 
- 
- &lt;button
- type="button"
- data-twe-target="#carousel-0df4362fcae76e191c91ab6627d950d7-1776843905812295255"
- data-twe-slide-to="2"
- 
- class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
- aria-label="Slide 2"&gt;&lt;/button&gt;
- 
- 
- &lt;button
- type="button"
- data-twe-target="#carousel-0df4362fcae76e191c91ab6627d950d7-1776843905812295255"
- data-twe-slide-to="3"
- 
- class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
- aria-label="Slide 3"&gt;&lt;/button&gt;
- 
- 
- &lt;button
- type="button"
- data-twe-target="#carousel-0df4362fcae76e191c91ab6627d950d7-1776843905812295255"
- data-twe-slide-to="4"
- 
- class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
- aria-label="Slide 4"&gt;&lt;/button&gt;
- 
- 
- &lt;/div&gt;
-
- &lt;div
- class="relative w-full after:clear-both after:block after:content-['']"
- style="overflow-x: clip; overflow-y: visible;"&gt;
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;div
- class="relative float-left -mr-[100%] w-full transition-transform ease-in-out motion-reduce:transition-none"
- data-twe-carousel-item
- style="transition-duration: 2000ms;"
- data-twe-carousel-active&gt;
- &lt;div class="single_hero_background relative overflow-hidden" style="aspect-ratio: 16 / 9;"&gt;
- &lt;img
- src="https://snspkfre.github.io/website-source/projects/gpu-flocking/carousel-images/cthulhu-1.png"
- class="block absolute top-0 object-cover w-full h-full not-prose nozoom"
- alt="carousel image 1"&gt;
- &lt;/div&gt;
- 
- &lt;/div&gt;
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;div
- class="relative float-left -mr-[100%] hidden w-full transition-transform ease-in-out motion-reduce:transition-none"
- data-twe-carousel-item
- style="transition-duration: 2000ms;"
- &gt;
- &lt;div class="single_hero_background relative overflow-hidden" style="aspect-ratio: 16 / 9;"&gt;
- &lt;img
- src="https://snspkfre.github.io/website-source/projects/gpu-flocking/carousel-images/cthulhu-2.png"
- class="block absolute top-0 object-cover w-full h-full not-prose nozoom"
- alt="carousel image 2"&gt;
- &lt;/div&gt;
- 
- &lt;/div&gt;
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;div
- class="relative float-left -mr-[100%] hidden w-full transition-transform ease-in-out motion-reduce:transition-none"
- data-twe-carousel-item
- style="transition-duration: 2000ms;"
- &gt;
- &lt;div class="single_hero_background relative overflow-hidden" style="aspect-ratio: 16 / 9;"&gt;
- &lt;img
- src="https://snspkfre.github.io/website-source/projects/gpu-flocking/carousel-images/cthulhu-3.png"
- class="block absolute top-0 object-cover w-full h-full not-prose nozoom"
- alt="carousel image 3"&gt;
- &lt;/div&gt;
- 
- &lt;/div&gt;
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;div
- class="relative float-left -mr-[100%] hidden w-full transition-transform ease-in-out motion-reduce:transition-none"
- data-twe-carousel-item
- style="transition-duration: 2000ms;"
- &gt;
- &lt;div class="single_hero_background relative overflow-hidden" style="aspect-ratio: 16 / 9;"&gt;
- &lt;img
- src="https://snspkfre.github.io/website-source/projects/gpu-flocking/carousel-images/cthulhu-4.png"
- class="block absolute top-0 object-cover w-full h-full not-prose nozoom"
- alt="carousel image 4"&gt;
- &lt;/div&gt;
- 
- &lt;/div&gt;
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- &lt;div
- class="relative float-left -mr-[100%] hidden w-full transition-transform ease-in-out motion-reduce:transition-none"
- data-twe-carousel-item
- style="transition-duration: 2000ms;"
- &gt;
- &lt;div class="single_hero_background relative overflow-hidden" style="aspect-ratio: 16 / 9;"&gt;
- &lt;img
- src="https://snspkfre.github.io/website-source/projects/gpu-flocking/carousel-images/cthulhu-5.png"
- class="block absolute top-0 object-cover w-full h-full not-prose nozoom"
- alt="carousel image 5"&gt;
- &lt;/div&gt;
- 
- &lt;/div&gt;
- 
- &lt;/div&gt;
-
- &lt;button
- class="absolute top-0 bottom-0 left-0 z-2 flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:no-underline hover:opacity-90 hover:outline-none focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none"
- type="button"
- data-twe-target="#carousel-0df4362fcae76e191c91ab6627d950d7-1776843905812295255"
- data-twe-slide="prev"&gt;
- &lt;span class="inline-block h-8 w-8"&gt;
- &lt;svg
- xmlns="http://www.w3.org/2000/svg"
- fill="none"
- viewBox="0 0 24 24"
- stroke-width="4.5"
- stroke="currentColor"
- class="h-6 w-6"&gt;
- &lt;path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5L8.25 12l7.5-7.5" /&gt;
- &lt;/svg&gt;
- &lt;/span&gt;
- &lt;span
- class="!absolute !-m-px !h-px !w-px !overflow-hidden !whitespace-nowrap !border-0 !p-0 ![clip:rect(0,0,0,0)]"
- &gt;Previous&lt;/span
- &gt;
- &lt;/button&gt;
-
- &lt;button
- class="absolute top-0 bottom-0 right-0 z-[1] flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:no-underline hover:opacity-90 hover:outline-none focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none"
- type="button"
- data-twe-target="#carousel-0df4362fcae76e191c91ab6627d950d7-1776843905812295255"
- data-twe-slide="next"&gt;
- &lt;span class="inline-block h-8 w-8"&gt;
- &lt;svg
- xmlns="http://www.w3.org/2000/svg"
- fill="none"
- viewBox="0 0 24 24"
- stroke-width="4.5"
- stroke="currentColor"
- class="h-6 w-6"&gt;
- &lt;path stroke-linecap="round" stroke-linejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" /&gt;
- &lt;/svg&gt;
- &lt;/span&gt;
- &lt;span
- class="!absolute !-m-px !h-px !w-px !overflow-hidden !whitespace-nowrap !border-0 !p-0 ![clip:rect(0,0,0,0)]"
- &gt;Next&lt;/span
- &gt;
- &lt;/button&gt;
-&lt;/div&gt;
-
+&lt;img src="flockingimg.png"&gt;
 &lt;/div&gt;
 &lt;br&gt;
 
@@ -811,4 +420,5 @@
  &lt;/span&gt;
  
 &lt;/h1&gt;
-&lt;p&gt;This project was my final project for a course intermediate graphics and animation programming. Our goal was to create an environment with fish that were flocking and make it look like a painting via a kuwahara filter.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://snspkfre.github.io/website-source/projects/gpu-flocking/featured.png"/></item></channel></rss>
+&lt;p&gt;This project was my final project for a course intermediate graphics and animation programming. Our goal was to create an environment with fish that were flocking and make it look like a painting via a kuwahara filter.&lt;/p&gt;
+&lt;p&gt;In order to have the fish flock in an efficient manner we went about implementing the flocking by utilizing GPU dispatches through a compute shader.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://snspkfre.github.io/website-source/projects/gpu-flocking/featured.png"/></item></channel></rss>
