@@ -37,6 +37,21 @@
     {{ partial "social.html" "github" }}
   </a>
   
+  <section>
+    {{ with "Resume: " }}
+      <header>
+        <h3>{{ . | emojify }}</h3>
+      </header>
+    {{ end }}
+      <a href="https://docs.google.com/document/d/11ClqRp7BhIRpMTv6v-eDWSP0D-BynTs8KOnyjdZDjYQ/edit?usp=sharing" target="_blank">
+        {{ partial "social.html" "link" }}
+      </a>
+  
+      <a href="/static/doc/VictorDiabResume.pdf" download>
+        {{ partial "social.html" "download" }}
+      </a>
+  </section>
+
   <br>
 
   {{ with "Featured Projects: " }}
@@ -46,7 +61,11 @@
   {{ end }}
 
   <section class="w-full">{{ .Content }}</section>
-</article>
+  
 <section>
   {{ partial "featured-articles/main.html" . }}
 </section>
+
+</article>
+
+
