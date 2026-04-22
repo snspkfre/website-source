@@ -9,7 +9,8 @@ tags: ['Unity', 'HLSL', 'Shadergraph']
 
 <div style="float: right; min-width: 250px; width: 700px; max-width: 650px; margin-left: 20px; margin-top: 10px; gap: 20px">
 
-{{< carousel images="carousel-images/*" aspectRatio="16-9" interval="2000">}}
+
+<img src="flockingimg.png">
 
 </div>
 
