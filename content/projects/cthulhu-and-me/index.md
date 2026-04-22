@@ -18,19 +18,18 @@ tags: ['Unity', 'C#', 'HLSL', 'Shadergraph']
 
 # About
 
-Cthulhu & Me is a 3D third-person roguelike boomer-shooter where, on a bright sunny day, Cthulhu rises from the ocean to terrorize the world once again, but notices and takes interest in a little girl who is seemingly not afraid of this eldritch being. 
+Cthulhu & Me is a 3D third-person roguelike boomer-shooter. On a bright sunny day, Cthulhu rises from the ocean to terrorize the world once again, but notices a little girl who is seemingly not afraid of him. 
 
-Play as this little girl in the world of dreams, her dreams. Battle monstrosities and terrors created by Cthulhu as you navigate through a maze of randomized
-rooms while collecting a variety of imaginary weapons such as the legendary crayon shotgun.
+Play as this little girl in the world of her dreams. Battle monstrosities created by Cthulhu and collecing a variety of imaginary weapons as you navigate through a maze of randomized rooms.
 
 
 <img src="carousel-images/cthulhu-3.png" alt="My Image" style="float: right; width:700px; margin-left:20px; margin-bottom: 50px">
 
 <br>
 
-# Portal
+# Highlight: Portal
 
-For the portals we wanted a weird effect to highlight that the little girl is in a dream. To create a cool effect for that I made a distortion effect with a color tint so it looked other-worldly then for levels where you have an item pickup to differentiate it you can see Cthulhu through the portal but he isn't in the world. This is because there is a stencil shader making it so you can only see him through the portal. 
+For the portals, we wanted an odd effect to highlight that the player is in a dream. To create something otherworldly, I used a spiraling screen space distortion with a color tint. To differentiate safe rooms from combat areas, among other things we change the portals. Cthluhu appears through the portal, but not in the world. This is using stencil shader making it so you can only see him through select areas of the screen. 
 
 <br>
 

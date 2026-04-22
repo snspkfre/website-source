@@ -17,7 +17,7 @@ tags: ['Unity', 'C#', 'LaTex']
 
 # About
 
-This project was an interactive spline tool built in the Unity game engine demonstrating different mathematical curves along a spline. Then we presented at the Hudson River Undergraduate Math Conference about different applications of splines in different fields and how they worked using the Spline Tool and Desmos to aide our explanation. 
+This project was an interactive spline tool built in the Unity game engine demonstrating different mathematical curves along a spline. Then, we presented at the Hudson River Undergraduate Math Conference about different applications of splines in different fields and how they worked using the Spline Tool and Desmos to aide our explanation. 
 
 <div style="float: center; min-width: 250px; width: 700; max-width: 800px; margin-left: 10px; margin-top: 10px; margin-bottom: 10px; gap: 0px">
 <img src="SplineShapesDemo.gif">

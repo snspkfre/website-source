@@ -18,16 +18,17 @@ tags: ['Unity', 'HLSL', 'Shadergraph']
 
 # About
 
-This project was my final project for a course intermediate graphics and animation programming. Our goal was to create an environment with fish that were flocking and make it look like a painting via a kuwahara filter. 
+This was my final project for a graphics programming course. Our goal was to create an environment with fish that were flocking and make it look like a painting via a kuwahara filter. 
 
-In order to have the fish flock in an efficient manner we went about implementing the flocking by utilizing GPU dispatches through a compute shader. 
+In order to have the fish flock in an efficient manner, I implemented the flocking algorithm utilizing GPU dispatches through a compute shader. 
 
+<br>
 <br>
 
 # Responsibilities
 
 - Implemented the flocking algorithm such that it calculates boids on the GPU using compute shaders to save performance
-- Reduced performance to be able to calculate the position and velocity thousands of boids simultaneously while maintaining a stable 60 FPS
+- Increased performance to be able to calculate the position and velocity thousands of boids simultaneously while maintaining a stable 60 FPS
 - Implemented instanced rendering of boids so they work with vertex shader animations created in shader graph
 
 # Info
