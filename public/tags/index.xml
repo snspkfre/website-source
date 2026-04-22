@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Home</title>
-    <link>http://localhost:1313/website-source/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Victor Diab</copyright>
-    <lastBuildDate>Wed, 18 Feb 2026 09:44:33 -0500</lastBuildDate><atom:link href="http://localhost:1313/website-source/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Feb 2026 09:44:33 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>C#</title>
-      <link>http://localhost:1313/website-source/tags/c%23/</link>
+      <link>http://localhost:1313/tags/c%23/</link>
       <pubDate>Wed, 18 Feb 2026 09:44:33 -0500</pubDate>
       
-      <guid>http://localhost:1313/website-source/tags/c%23/</guid>
+      <guid>http://localhost:1313/tags/c%23/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>HLSL</title>
-      <link>http://localhost:1313/website-source/tags/hlsl/</link>
+      <link>http://localhost:1313/tags/hlsl/</link>
       <pubDate>Wed, 18 Feb 2026 09:44:33 -0500</pubDate>
       
-      <guid>http://localhost:1313/website-source/tags/hlsl/</guid>
+      <guid>http://localhost:1313/tags/hlsl/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Shadergraph</title>
-      <link>http://localhost:1313/website-source/tags/shadergraph/</link>
+      <link>http://localhost:1313/tags/shadergraph/</link>
       <pubDate>Wed, 18 Feb 2026 09:44:33 -0500</pubDate>
       
-      <guid>http://localhost:1313/website-source/tags/shadergraph/</guid>
+      <guid>http://localhost:1313/tags/shadergraph/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Unity</title>
-      <link>http://localhost:1313/website-source/tags/unity/</link>
+      <link>http://localhost:1313/tags/unity/</link>
       <pubDate>Wed, 18 Feb 2026 09:44:33 -0500</pubDate>
       
-      <guid>http://localhost:1313/website-source/tags/unity/</guid>
+      <guid>http://localhost:1313/tags/unity/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>LaTex</title>
-      <link>http://localhost:1313/website-source/tags/latex/</link>
+      <link>http://localhost:1313/tags/latex/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/website-source/tags/latex/</guid>
+      <guid>http://localhost:1313/tags/latex/</guid>
       <description></description>
       
     </item>
