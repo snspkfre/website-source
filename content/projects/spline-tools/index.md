@@ -36,7 +36,7 @@ This project was an interactive spline tool built in the Unity game engine demon
 
 Presenting this at HRUMC with my copresenter Lizzie was very fun, and it was sick to see all the other talks about different mathematical concepts and applications. 
 
-It was also a cool technical challenge to implement objects that can animate along the spline with constant velocity since it required generating then using look up tables to evaluates the acceleration at different points then interpolating those values where we were along the spline.  
+It was also a cool technical challenge to implement objects that can animate along the spline with constant velocity since it required generating then using look up tables to evaluate the acceleration at different points then interpolating those values where we were along the spline.  
 
 
 <br>
