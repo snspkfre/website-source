@@ -4,7 +4,7 @@
 
 theme = "blowfish"
 
-baseURL = "https://snspkfre.github.io/website-source/"
+baseURL = "https://victordiab.com/"
 languageCode = "en-us"
 
 title = "Victor Portfolio Site"
