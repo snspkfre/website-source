@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home</title><link>https://snspkfre.github.io/website-source/</link><description>Recent content on Home</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2026 Victor Diab</copyright><lastBuildDate>Wed, 18 Feb 2026 09:44:33 -0500</lastBuildDate><atom:link href="https://snspkfre.github.io/website-source/index.xml" rel="self" type="application/rss+xml"/><item><title>Cthulhu and Me</title><link>https://snspkfre.github.io/website-source/projects/cthulhu-and-me/</link><pubDate>Wed, 18 Feb 2026 09:44:33 -0500</pubDate><guid>https://snspkfre.github.io/website-source/projects/cthulhu-and-me/</guid><description>&lt;br&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home</title><link>https://victordiab.com/</link><description>Recent content on Home</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2026 Victor Diab</copyright><lastBuildDate>Wed, 18 Feb 2026 09:44:33 -0500</lastBuildDate><atom:link href="https://victordiab.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Cthulhu and Me</title><link>https://victordiab.com/projects/cthulhu-and-me/</link><pubDate>Wed, 18 Feb 2026 09:44:33 -0500</pubDate><guid>https://victordiab.com/projects/cthulhu-and-me/</guid><description>&lt;br&gt;
 &lt;div style="float: right; min-width: 250px; width: 550px; max-width: 650px; margin-left: 20px; margin-top: 10px; gap: 20px"&gt;
 
 
@@ -34,7 +34,7 @@
 
 &lt;div class="width-patch"&gt;&lt;/div&gt;
 &lt;div
- id="carousel-9a23cbb55f5c158173255cb6261720cd-1776849722274342006"
+ id="carousel-375d8490fb27bc582ffdb81434822acd-1777241719460431081"
  class="relative"
  data-twe-carousel-init
  data-twe-ride="carousel"
@@ -46,7 +46,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776849722274342006"
+ data-twe-target="#carousel-375d8490fb27bc582ffdb81434822acd-1777241719460431081"
  data-twe-slide-to="0"
  data-twe-carousel-active aria-current="true"
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -55,7 +55,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776849722274342006"
+ data-twe-target="#carousel-375d8490fb27bc582ffdb81434822acd-1777241719460431081"
  data-twe-slide-to="1"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -64,7 +64,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776849722274342006"
+ data-twe-target="#carousel-375d8490fb27bc582ffdb81434822acd-1777241719460431081"
  data-twe-slide-to="2"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -73,7 +73,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776849722274342006"
+ data-twe-target="#carousel-375d8490fb27bc582ffdb81434822acd-1777241719460431081"
  data-twe-slide-to="3"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -82,7 +82,7 @@
  
  &lt;button
  type="button"
- data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776849722274342006"
+ data-twe-target="#carousel-375d8490fb27bc582ffdb81434822acd-1777241719460431081"
  data-twe-slide-to="4"
  
  class="mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none"
@@ -138,7 +138,7 @@
  data-twe-carousel-active&gt;
  &lt;div class="single_hero_background relative overflow-hidden" style="aspect-ratio: 16 / 9;"&gt;
  &lt;img
- src="https://snspkfre.github.io/website-source/projects/cthulhu-and-me/carousel-images/cthulhu-1.png"
+ src="https://victordiab.com/projects/cthulhu-and-me/carousel-images/cthulhu-1.png"
  class="block absolute top-0 object-cover w-full h-full not-prose nozoom"
  alt="carousel image 1"&gt;
  &lt;/div&gt;
@@ -188,7 +188,7 @@
  &gt;
  &lt;div class="single_hero_background relative overflow-hidden" style="aspect-ratio: 16 / 9;"&gt;
  &lt;img
- src="https://snspkfre.github.io/website-source/projects/cthulhu-and-me/carousel-images/cthulhu-2.png"
+ src="https://victordiab.com/projects/cthulhu-and-me/carousel-images/cthulhu-2.png"
  class="block absolute top-0 object-cover w-full h-full not-prose nozoom"
  alt="carousel image 2"&gt;
  &lt;/div&gt;
@@ -238,7 +238,7 @@
  &gt;
  &lt;div class="single_hero_background relative overflow-hidden" style="aspect-ratio: 16 / 9;"&gt;
  &lt;img
- src="https://snspkfre.github.io/website-source/projects/cthulhu-and-me/carousel-images/cthulhu-3.png"
+ src="https://victordiab.com/projects/cthulhu-and-me/carousel-images/cthulhu-3.png"
  class="block absolute top-0 object-cover w-full h-full not-prose nozoom"
  alt="carousel image 3"&gt;
  &lt;/div&gt;
@@ -288,7 +288,7 @@
  &gt;
  &lt;div class="single_hero_background relative overflow-hidden" style="aspect-ratio: 16 / 9;"&gt;
  &lt;img
- src="https://snspkfre.github.io/website-source/projects/cthulhu-and-me/carousel-images/cthulhu-4.png"
+ src="https://victordiab.com/projects/cthulhu-and-me/carousel-images/cthulhu-4.png"
  class="block absolute top-0 object-cover w-full h-full not-prose nozoom"
  alt="carousel image 4"&gt;
  &lt;/div&gt;
@@ -338,7 +338,7 @@
  &gt;
  &lt;div class="single_hero_background relative overflow-hidden" style="aspect-ratio: 16 / 9;"&gt;
  &lt;img
- src="https://snspkfre.github.io/website-source/projects/cthulhu-and-me/carousel-images/cthulhu-5.png"
+ src="https://victordiab.com/projects/cthulhu-and-me/carousel-images/cthulhu-5.png"
  class="block absolute top-0 object-cover w-full h-full not-prose nozoom"
  alt="carousel image 5"&gt;
  &lt;/div&gt;
@@ -350,7 +350,7 @@
  &lt;button
  class="absolute top-0 bottom-0 left-0 z-2 flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:no-underline hover:opacity-90 hover:outline-none focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none"
  type="button"
- data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776849722274342006"
+ data-twe-target="#carousel-375d8490fb27bc582ffdb81434822acd-1777241719460431081"
  data-twe-slide="prev"&gt;
  &lt;span class="inline-block h-8 w-8"&gt;
  &lt;svg
@@ -372,7 +372,7 @@
  &lt;button
  class="absolute top-0 bottom-0 right-0 z-[1] flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:no-underline hover:opacity-90 hover:outline-none focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none"
  type="button"
- data-twe-target="#carousel-9a23cbb55f5c158173255cb6261720cd-1776849722274342006"
+ data-twe-target="#carousel-375d8490fb27bc582ffdb81434822acd-1777241719460431081"
  data-twe-slide="next"&gt;
  &lt;span class="inline-block h-8 w-8"&gt;
  &lt;svg
@@ -405,7 +405,7 @@
  &lt;/span&gt;
  
 &lt;/h1&gt;
-&lt;p&gt;Cthulhu &amp;amp; Me is a 3D third-person roguelike boomer-shooter. On a bright sunny day, Cthulhu rises from the ocean to terrorize the world once again, but notices a little girl who is seemingly not afraid of him.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://snspkfre.github.io/website-source/projects/cthulhu-and-me/featured.png"/></item><item><title>GPU Flocking</title><link>https://snspkfre.github.io/website-source/projects/gpu-flocking/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://snspkfre.github.io/website-source/projects/gpu-flocking/</guid><description>&lt;br&gt;
+&lt;p&gt;Cthulhu &amp;amp; Me is a 3D third-person roguelike boomer-shooter. On a bright sunny day, Cthulhu rises from the ocean to terrorize the world once again, but notices a little girl who is seemingly not afraid of him.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://victordiab.com/projects/cthulhu-and-me/featured.png"/></item><item><title>GPU Flocking</title><link>https://victordiab.com/projects/gpu-flocking/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://victordiab.com/projects/gpu-flocking/</guid><description>&lt;br&gt;
 &lt;div style="float: right; min-width: 250px; width: 700px; max-width: 650px; margin-left: 20px; margin-top: 10px; gap: 20px"&gt;
 &lt;img src="flockingimg.png"&gt;
 &lt;/div&gt;
@@ -421,7 +421,7 @@
  
 &lt;/h1&gt;
 &lt;p&gt;This was my final project for a graphics programming course. Our goal was to create an environment with fish that were flocking and make it look like a painting via a kuwahara filter.&lt;/p&gt;
-&lt;p&gt;In order to have the fish flock in an efficient manner, I implemented the flocking algorithm utilizing GPU dispatches through a compute shader.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://snspkfre.github.io/website-source/projects/gpu-flocking/featured.png"/></item><item><title>Spline Tools</title><link>https://snspkfre.github.io/website-source/projects/spline-tools/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://snspkfre.github.io/website-source/projects/spline-tools/</guid><description>&lt;br&gt;
+&lt;p&gt;In order to have the fish flock in an efficient manner, I implemented the flocking algorithm utilizing GPU dispatches through a compute shader.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://victordiab.com/projects/gpu-flocking/featured.png"/></item><item><title>Spline Tools</title><link>https://victordiab.com/projects/spline-tools/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://victordiab.com/projects/spline-tools/</guid><description>&lt;br&gt;
 &lt;div style="float: right; min-width: 250px; width: 650px; max-width: 700px; margin-left: 20px; margin-top: 10px; margin-bottom: 10px; gap: 20px"&gt;
  &lt;!-- 
 
@@ -447,7 +447,7 @@
 
 &lt;div class="width-patch"&gt;&lt;/div&gt;
 &lt;div
- id="carousel-6b02c2a3ebd1575882c3a0beca761043-1776849722271990872"
+ id="carousel-0f9ddc8f2dc482d7d01f384dd703ed24-1777241719464750784"
  class="relative"
  data-twe-carousel-init
  data-twe-ride="carousel"
@@ -468,7 +468,7 @@
  &lt;button
  class="absolute top-0 bottom-0 left-0 z-2 flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:no-underline hover:opacity-90 hover:outline-none focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none"
  type="button"
- data-twe-target="#carousel-6b02c2a3ebd1575882c3a0beca761043-1776849722271990872"
+ data-twe-target="#carousel-0f9ddc8f2dc482d7d01f384dd703ed24-1777241719464750784"
  data-twe-slide="prev"&gt;
  &lt;span class="inline-block h-8 w-8"&gt;
  &lt;svg
@@ -490,7 +490,7 @@
  &lt;button
  class="absolute top-0 bottom-0 right-0 z-[1] flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:no-underline hover:opacity-90 hover:outline-none focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none"
  type="button"
- data-twe-target="#carousel-6b02c2a3ebd1575882c3a0beca761043-1776849722271990872"
+ data-twe-target="#carousel-0f9ddc8f2dc482d7d01f384dd703ed24-1777241719464750784"
  data-twe-slide="next"&gt;
  &lt;span class="inline-block h-8 w-8"&gt;
  &lt;svg
@@ -522,4 +522,4 @@
  &lt;/span&gt;
  
 &lt;/h1&gt;
-&lt;p&gt;This project was an interactive spline tool built in the Unity game engine demonstrating different mathematical curves along a spline. Then, we presented at the Hudson River Undergraduate Math Conference about different applications of splines in different fields and how they worked using the Spline Tool and Desmos to aide our explanation.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://snspkfre.github.io/website-source/projects/spline-tools/featured.png"/></item></channel></rss>
+&lt;p&gt;This project was an interactive spline tool built in the Unity game engine demonstrating different mathematical curves along a spline. Then, we presented at the Hudson River Undergraduate Math Conference about different applications of splines in different fields and how they worked using the Spline Tool and Desmos to aide our explanation.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://victordiab.com/projects/spline-tools/featured.png"/></item></channel></rss>
