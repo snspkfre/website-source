@@ -24,6 +24,7 @@ advertisement = { }
 
 [header]
 layout = "basic"
+logo = "favicon.svg"
 
 [footer]
 showMenu = true
@@ -106,8 +107,3 @@ showTableOfContents = true
 groupByYear = false
 cardView = false
 cardViewScreenWidth = false
-
-[logo]
-  path = "favicon.svg"
-  width = 50
-  height = 50
