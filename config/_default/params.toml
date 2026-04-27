@@ -24,7 +24,6 @@ advertisement = { }
 
 [header]
 layout = "basic"
-logo = "favicon.svg"
 
 [footer]
 showMenu = true
