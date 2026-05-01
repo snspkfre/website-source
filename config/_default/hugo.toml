@@ -10,7 +10,7 @@ languageCode = "en-us"
 title = "Victor Portfolio Site"
 [params.author]
 name = "Victor Diab"
-# image = "image/path.png"
+image = "static/favicon-32x32.png"
 headline = "Graphics Programmer"
 bio = "Description about me"
 #links = [
